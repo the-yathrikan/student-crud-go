@@ -1,0 +1,21 @@
+# Binaries
+/main
+*.exe
+*.out
+*.test
+
+# Dependency directories
+vendor/
+
+# Env files
+.env
+
+# IDEs and tools
+.vscode/
+.idea/
+
+# Swagger generated
+/docs
+
+# Docker volumes (optional)
+mongo-data/
